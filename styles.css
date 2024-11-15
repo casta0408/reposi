@@ -1,0 +1,35 @@
+table, td, th{
+    border: 1px solid black;
+}
+td, th{
+    padding: 8px;
+    border-radius: 12px;
+}
+
+table{
+    background-color: aliceblue;
+    border-spacing: 5px;
+}
+
+div{
+    background-color: aqua;
+    width: 240px;
+    height: 170px;
+    padding: 35px;
+    text-align: center;
+}
+
+#luisa{
+    background-color: brown;
+    color: aqua;
+}
+
+.jireh{
+    background-color: blueviolet;
+    color: aliceblue;
+}
+
+.tabla{
+    background-color: rgb(67, 190, 63);
+    color: black;
+}
